@@ -4,31 +4,31 @@ tags:
   - SideCharacters
   - NoMag
 ---
-Appearance
+==Appearance==
 Hight
 Weight
 Physical characteristics
 Handsome
 
-Species
+==Species==
 [[Human]]
 
-Weapons
+==Weapons==
 pistol
 assault rifle
 
-Magical affinity
+==Magical affinity==
 [[No Mag]]
 
-Allies
+==Allies==
 
 
-Groups
+==Groups==
 [[EX SEAD]]
 
-Country of Origin
+==Country of Origin==
 
-Job
+Job==
 freelance
 
-Languages
+==Languages==
