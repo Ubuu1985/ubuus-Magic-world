@@ -4,10 +4,31 @@ tags:
   - SideCharacters
   - Maji
 ---
-German
-Cadet of [[SEAD]]
-Tall at 6' 5"
-Speaks [[German]] and [[Dagalin]]
+Appearance
+Hight 6' 5"
+Weight
+Physical characteristics
+
+Species
+[[Human]]
+
+Weapons
+War Hammer
+
+Magical affinity
 [[Earth]] [[Maji]]
-Born in [[Germany (Country)]]
-Weapon War Hammer
+
+Allies
+[[Cledus]], [[Lia Daden]]
+
+Groups
+[[SEAD]]
+
+Country of Origin
+[[Germany (Country)]]
+
+Job
+Cadet of [[SEAD]]
+
+Languages
+[[German]] and [[Dagalin]]
