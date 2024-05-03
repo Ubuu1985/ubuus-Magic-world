@@ -8,6 +8,6 @@ German
 Cadet of [[SEAD]]
 Tall at 6' 5"
 Speaks [[German]] and [[Dagalin]]
-Maji
+[[Earth]] [[Maji]]
 Born in [[Germany (Country)]]
 Weapon War Hammer
