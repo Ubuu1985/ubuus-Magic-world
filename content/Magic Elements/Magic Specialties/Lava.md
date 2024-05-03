@@ -1,1 +1,0 @@
-A combanation of [[Fire]] and [[Earth]].
