@@ -4,32 +4,32 @@ tags:
   - SideCharacters
   - Maji
 ---
-Appearance
-Hight 5' 10"
+==Appearance==
+Hight 6' 5"
 Skinny and muscular
 Redneak
 
-Species
+==Species==
 [[Human]]
 
-Weapon
+==Weapon==
 Spear
 
-Magical Affinity
+==Magical Affinity==
 [[Water]] [[Maji]]
 
-Allies
+==Allies==
 [[Hans]]
 [[Lia Daden]]
 
-Groups
+==Groups==
 [[SEAD]]
 
-Country of Origin[
+==Country of Origin==
 Louisiana , [[USA (Country)]] 
 
-Job
+==Job==
 Cadet Of [[SEAD]]
 
-Languages
+==Languages==
 [[English]] [[Dagalin]]
