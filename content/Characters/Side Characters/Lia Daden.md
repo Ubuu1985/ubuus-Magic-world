@@ -4,39 +4,39 @@ tags:
   - SideCharacters
   - Maji
 ---
-Appearance
-Hight
+==Appearance==
+Hight 5' 10"
 Weight
 Physical characteristics
 beautiful
 
-Personality
+==Personality==
 stern and fallows the rules
 
-Species
+==Species==
 [[Elf]]
 
-Weapons
+==Weapons==
 Whip
 
-Magical affinity
+==Magical affinity==
 [[Wind]] [[Maji]]
 
-Allies
+==Allies==
 
-Groups
+==Groups==
 [[SEAD]]
 
-Country of Origin
+==Country of Origin==
 [[Asstrozalia (City)]], [[Asstrogall (Country)]]
 
-Job
+==Job==
 A Teacher at [[SEAD]]
 
-Languages
+==Languages==
 [[Elfish]], [[Dagalin]], and [[English]]
 
-Notes
+==Notes==
 the teacher of [[Hans]] and [[Cledus]]
 likes Jayson but won't admit it.
 
