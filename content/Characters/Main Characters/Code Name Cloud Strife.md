@@ -4,50 +4,50 @@ tags:
   - MainCharacters
   - Maji
 ---
-Appearance
+==Appearance==
 Hight 5' 9"
-Weight
+Weight Redacted
 Physical characteristics
 
-Species
+==Species==
 [[Human]]
 
-Personality
+==Personality==
 
-Weapons
+==Weapons==
 2 swords
 2 pistols
 revolver
 assault rifle
 sniper rifle
 
-Magical affinity
+==Magical affinity==
 [[Fire]] [[Maji]]
 [[Fire]], [[Wind]], [[Earth]], [[Dark]]
 [[Lava]]
 
-Allies
+==Allies==
 
-Groups
+==Groups==
 [[SEAD]]
 [[Red Dragon Clan]]
 
-Country of Origin
-unknown, [[USA (Country)]]
+==Country of Origin==
+Redacted, [[USA (Country)]]
 
-Job
+==Job==
 Code Name of [[SEAD]]
 
-Languages
+==Languages==
 [[English]], [[Dagalin]], French, and more
 
-Titles
-Destroyer of [[Tigo]]
+==Titles==
+Bucher of [[Tigo]]
 Master of blades
 Master of firearms
 Head of Red dragon clan
 
-Notes
+==Notes==
 Acrobatic fighter
 part fire dragon but all human as well
 If dies comes back to life
