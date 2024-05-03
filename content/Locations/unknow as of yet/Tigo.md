@@ -1,0 +1,2 @@
+destroyed in 2001 by [[The Order of Vorag]] for helping [[SEAD]].
+[[Code Name Cloud Strife]] was blamed for this (due to his bosting) until the capture of General Osmond Enstone in 2019. the general confirmed that the village was going to be destroyed anyways
