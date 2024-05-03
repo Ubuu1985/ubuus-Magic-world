@@ -4,31 +4,32 @@ tags:
   - SideCharacters
   - Maji
 ---
-Appearance
-Hight 6' 5"
-Weight
+==Appearance==
+Hight 5' 5"
+Weight 300
 Physical characteristics
+Fat but strong
 
-Species
+==Species==
 [[Human]]
 
-Weapons
+==Weapons==
 War Hammer
 
-Magical affinity
+==Magical affinity==
 [[Earth]] [[Maji]]
 
-Allies
+==Allies==
 [[Cledus]], [[Lia Daden]]
 
-Groups
+==Groups==
 [[SEAD]]
 
-Country of Origin
+==Country of Origin==
 [[Germany (Country)]]
 
-Job
+==Job==
 Cadet of [[SEAD]]
 
-Languages
+==Languages==
 [[German]] and [[Dagalin]]
