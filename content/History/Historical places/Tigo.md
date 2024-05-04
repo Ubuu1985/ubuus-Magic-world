@@ -3,8 +3,8 @@ tags:
   - City
   - HistoricalPlace
 ---
-destroyed in 2001 by [[The Order of Vorag]] for helping [[SEAD]].
-[[Code Name Cloud Strife]] was blamed for this (due to his bosting) until the capture of [[General Osmond Enstone]] in 2019. the general confirmed that the village was going to be destroyed anyways
+Destroyed in 2001 by [[The Order of Vorag]] for helping [[SEAD]].
+[[Cloud Strife cod. nam.]] was blamed as the reason for the attack (due to his bosting) until the capture of [[General Osmond Enstone]] in 2019. The general confirmed that the village was going to be destroyed anyways.
 In the center of town was a Marble Fountain and statue of the [[Gilda, Goddess of Prosperity]]. The statue had it's head and wings smashed off during [[General Osmond Enstone]]'s Destruction of the village.
 
 ```leaflet  
