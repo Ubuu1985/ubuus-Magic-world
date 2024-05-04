@@ -1,1 +1,2 @@
-group in [[SEAD]] that spatializes in combat.
+A Spatialized Group of [[SEAD]]
+Spatializes in all forms of combat.
