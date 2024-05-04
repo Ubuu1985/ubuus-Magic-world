@@ -1,1 +1,1 @@
-same rank and pay as Second Lieutenant
+Same rank and pay as Second Lieutenant
