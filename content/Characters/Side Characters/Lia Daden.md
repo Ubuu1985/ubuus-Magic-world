@@ -4,6 +4,14 @@ tags:
   - SideCharacters
   - Maji
 ---
+==Real Name==
+Lia Daden
+
+==Family==
+Father
+Mother
+Siblings
+
 ==Appearance==
 Hight 5' 10"
 Weight
@@ -24,6 +32,7 @@ Whip
 
 ==Allies==
 
+
 ==Groups==
 [[SEAD]]
 
@@ -32,7 +41,8 @@ Whip
 
 ==Job==
 A Teacher at [[SEAD]]
-
+Rank
+[[Teacher]]
 ==Languages==
 [[Elfish]], [[Dagalin]], and [[English]]
 
