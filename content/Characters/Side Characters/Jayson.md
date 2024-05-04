@@ -4,6 +4,14 @@ tags:
   - SideCharacters
   - NoMag
 ---
+==Real Name==
+Jayson
+
+==Family==
+Father
+Mother
+Siblings
+
 ==Appearance==
 Hight
 Weight
@@ -25,10 +33,13 @@ assault rifle
 
 ==Groups==
 [[EX SEAD]]
+Former rank
+[[Lance Corporal, LCpl, E-3]]
 
 ==Country of Origin==
+[[Asstrozalia (City)]], [[Asstrogall (Country)]]
 
-Job==
+==Job==
 freelance
 
 ==Languages==
