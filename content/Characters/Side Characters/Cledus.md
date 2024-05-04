@@ -4,6 +4,14 @@ tags:
   - SideCharacters
   - Maji
 ---
+==Real Name==
+Cledus
+
+==Family==
+Father
+Mother
+Siblings
+
 ==Appearance==
 Hight 6' 5"
 Skinny and muscular
@@ -24,12 +32,14 @@ Spear
 
 ==Groups==
 [[SEAD]]
-
+Rank
+[[Cadet]]
 ==Country of Origin==
-Louisiana , [[USA (Country)]] 
-
+Louisiana, [[USA (Country)]] 
 ==Job==
 Cadet Of [[SEAD]]
+Rank
+[[Cadet]]
 
 ==Languages==
 [[English]] [[Dagalin]]
