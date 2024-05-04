@@ -4,6 +4,14 @@ tags:
   - SideCharacters
   - Maji
 ---
+==Real Name==
+Hans
+
+==Family==
+Father
+Mother
+Siblings
+
 ==Appearance==
 Hight 5' 5"
 Weight 300
@@ -24,6 +32,8 @@ War Hammer
 
 ==Groups==
 [[SEAD]]
+Rank
+[[Cadet]]
 
 ==Country of Origin==
 [[Germany (Country)]]
