@@ -41,7 +41,7 @@ Acrobatic fighter
 Redacted, [[USA (Country)]]
 
 ==Job==
-Code Name of [[SEAD]]
+[[Code Name]] of [[SEAD]]
 Rank
 [[Colonel, Col, O-6]]
 
