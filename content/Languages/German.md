@@ -2,4 +2,4 @@
 tags:
   - Language
 ---
-Spoken buy the people of Germany
+Spoken buy the people of [[Germany (Country)]]
