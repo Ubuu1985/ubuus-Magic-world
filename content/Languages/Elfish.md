@@ -2,4 +2,4 @@
 tags:
   - Language
 ---
-The Language of the elves
+The Language of the [[Elf]]s
