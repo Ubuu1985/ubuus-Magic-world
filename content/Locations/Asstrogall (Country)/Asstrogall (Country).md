@@ -2,7 +2,11 @@
 tags:
   - Country
 ---
-Capital city is [[Asstrozalia (City)]]
+==Capital city==
+[[Asstrozalia (City)]]
+
+==Languages==
+[[Dagalin]] and [[English]]
+
 aka The Royal City of Assrtogall
-Main Languages are [[Dagalin]] and [[English]]
 Headquarters of [[SEAD]] in [[Asstrozalia (City)]]
