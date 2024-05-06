@@ -3,4 +3,4 @@ tags:
   - Country
 ---
 National language is [[German]]
-allies of [[SEAD]]
+Allies of [[SEAD]]
