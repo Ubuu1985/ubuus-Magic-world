@@ -2,5 +2,5 @@
 tags:
   - Language
 ---
-the Magical Language
-an instinctual Language of the Maji
+The Magical Language
+An instinctual Language of the [[Maji]]
