@@ -10,9 +10,9 @@ Hight
 Weight
 ==Physical characteristics==
 
-==Species==
-
 ==Personality==
+
+==Species==
 
 ==Weapons==
 
