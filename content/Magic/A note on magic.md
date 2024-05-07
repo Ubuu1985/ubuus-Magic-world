@@ -1,0 +1,1 @@
+any copy of a spell written, pit on a screen or picture is a copy of that spell and can be activated. It is common practice to take a piece out of the spell so that it dose not activate. only a full spell can activate. a spell can activate even with none to activate it with just the mana in the area.
