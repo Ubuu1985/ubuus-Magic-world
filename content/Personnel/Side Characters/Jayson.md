@@ -17,7 +17,9 @@ Hight
 Weight
 Physical characteristics
 Handsome
-
+Fit
+==Personality==
+Conceded
 ==Species==
 [[Human]]
 
@@ -29,7 +31,6 @@ assault rifle
 [[No Mag]]
 
 ==Allies==
-
 
 ==Groups==
 [[EX SEAD]]
@@ -43,3 +44,8 @@ Former rank
 freelance
 
 ==Languages==
+
+==Notes==
+Very Capable soldier with miner behavioral problems.
+Excels in <span style="color:#ff0000">Redacted</span>
+left [[SEAD]] on his own due to <span style="color:#ff0000">Redacted</span>.
