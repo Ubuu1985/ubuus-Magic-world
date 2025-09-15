@@ -4,6 +4,7 @@
 Father
 Mother
 Siblings
+Spouse
 
 ==Appearance==
 Hight
