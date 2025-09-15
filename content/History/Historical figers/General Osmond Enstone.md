@@ -39,4 +39,4 @@ Criminal sentenced to life in high security prison platform
 ==Accomplishments==
 
 ==Notes==
-captured by [[Cloud Strife cod. nam.]] in 2019 and sentenced to jail for life for the Destruction of [[Tigo]]
+Captured by [[Cloud Strife cod. nam.]] in 2019 and sentenced to life in an orbital prison platform for the Destruction of [[Tigo]]
