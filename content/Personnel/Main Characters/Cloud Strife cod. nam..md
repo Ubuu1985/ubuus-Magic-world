@@ -5,11 +5,17 @@ tags:
   - Maji
 ---
 ==Real Name==
-<span style="color:#ff0000">Redacted</span> <span style="color:#ff0000">Redacted</span>
+<span style="color:#ff0000">Redacted</span>
 ==Family==
-Father <span style="color:#ff0000">Redacted</span>
-Mother <span style="color:#ff0000">Redacted</span>
-Siblings <span style="color:#ff0000">Redacted</span>
+Father
+<span style="color:#ff0000">Redacted</span>
+Mother 
+<span style="color:#ff0000">Redacted</span>
+Siblings
+[[Soliece Tarsis - Strife]] (Sister)
+
+==Spouse==
+None
 ==Appearance==
 Hight 5' 9"
 Weight <span style="color:#ff0000">Redacted</span>
