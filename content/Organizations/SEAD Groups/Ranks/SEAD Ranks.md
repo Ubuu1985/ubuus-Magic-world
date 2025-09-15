@@ -50,9 +50,9 @@ SEAD  ranks Fallows the us marine ranking systam
 
 
 ## Special Ranks:
-- Cadet
+- Cadet 1
 - Teacher same rank and pay as Second Lieutenant
-- Code Name
+- Code Name 2
 
-Cadets have no rank in the over all system, but can be given field commotions if necessary.
-Code Names are immediately given the rank of Major unless they at a higher rank
+1 Cadets have no rank in the over all system, but can be given field commotions if necessary.
+2 Code Names are immediately given the rank of Major unless they at a higher rank
